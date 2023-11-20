@@ -1,0 +1,5 @@
+struct Hotel {
+
+    int maxRooms;
+
+};
